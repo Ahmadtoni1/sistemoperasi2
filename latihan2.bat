@@ -6,8 +6,8 @@ set L=60
 
 rem ======tampilan
 echo -------------------------------------
-echo Nim 		:20122078
-echo Nama 		:Siswo Harjo
+echo Nim 		:20122055
+echo Nama 		:Ahmad Toni
 echo Kelas 		:TI 2B
 echo Jurusan		:Teknik Informatika
 echo -------------------------------------
